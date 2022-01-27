@@ -4,4 +4,4 @@
 * Admin can add,delete any doctor from available doctor list.
 * patient can book doctor.
 ### This project was done by me as a part of my university course.
-### Only raw PHP , bootstrap and MySql database is used here
+### PHP , bootstrap, MySql database is used here
